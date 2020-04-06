@@ -1,2 +1,5 @@
-# AppAuth
-Creazione applicazione con Node.js che implementa l'autenticazione per gli utenti
+Gruppo: Astori - Mio 
+
+AUTENTICAZIONE ad un sito web
+
+Per la nostra applicazione vorremmo creare una funzione di autenticazione.
